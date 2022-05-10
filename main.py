@@ -75,7 +75,7 @@ bottomFrame.pack(side=BOTTOM)
 thanksLabel=Label(bottomFrame, text="THANK YOU FOR SHOPPING",bg="silver", fg="grey")
 thanksLabel.pack()
 
-
+njnklnklnlk
 root.mainloop()
 
 
